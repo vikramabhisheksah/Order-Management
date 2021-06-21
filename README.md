@@ -1,3 +1,17 @@
+#Order Management
+The project includes a basic template of a portal where your can raise changes to an existing order.
+The type of requests are customizeable.
+The portal is Microsoft SSO enabled & can be activated after Azure App registration.
+The portal has an admin panel to decide who can access the portal with elevated roles(Admin, Approver, Approver & Admin ).
+The requests which are raised can be viewed in a Dashboard table and individual requests can be modified.
+The portal also has a bulk upload feature where multiple Order change requests can be placed in bulk.
+
+#Getting Started with OOC.
+
+Download and run npm install in cmd(make sure node is installed)
+Make sure apis are up and running
+run npm start in cmd
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
