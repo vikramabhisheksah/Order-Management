@@ -12,6 +12,16 @@ Download and run npm install in cmd(make sure node is installed)
 Make sure apis are up and running
 run npm start in cmd
 
+#HOMEPAGE
+<img width="1440" alt="Screen Shot 2021-12-18 at 1 42 48 PM" src="https://user-images.githubusercontent.com/27946181/146653833-35167cca-2fb5-4b9f-bb4f-7a370d3a9186.png">
+
+#DASHBOARD
+<img width="1440" alt="Screen Shot 2021-12-18 at 1 42 55 PM" src="https://user-images.githubusercontent.com/27946181/146653842-13c6cfa7-8b2e-4e57-90e1-d54497341a71.png">
+
+#ADMINISTRATION
+<img width="1440" alt="Screen Shot 2021-12-18 at 1 43 35 PM" src="https://user-images.githubusercontent.com/27946181/146653846-c62f402d-957b-4590-b724-d250b0b4757e.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
