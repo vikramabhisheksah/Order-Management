@@ -13,12 +13,29 @@ Make sure apis are up and running
 run npm start in cmd
 
 #HOMEPAGE
+- Login via SSO authentication
+- Select request type, enter the relevant details and create the Requests.
+-  Upon submitting a Request ID will be generated.
+-  The homepage also has an option to mass upload the requests by uploading an excel file of by filling the template (By clicking on download template button)
 <img width="1440" alt="Screen Shot 2021-12-18 at 1 42 48 PM" src="https://user-images.githubusercontent.com/27946181/146653833-35167cca-2fb5-4b9f-bb4f-7a370d3a9186.png">
 
 #DASHBOARD
+- The orders which are placed can be tracked.
+- The 4 order status are Pending Approval,Approved, Work in Progress(WIP), Completed.
+- The Approve button is only visible to users who have the Approver role.
+- The Approver can multi select the rows and approve in multiple requests in a go.
+- The dashboard with all the requests(from all users) in the queue are visible to the approver and the Admin roles.
+- A user with no priviledged roles, will only be able to see the orders created by him in the dashboard
+- Multiple filters can be applied, for example: Filter with a long list of comma separated order numbers
+- Individual sort and filter column capability is provided
+- Extensive use of react bootstrap table
 <img width="1440" alt="Screen Shot 2021-12-18 at 1 42 55 PM" src="https://user-images.githubusercontent.com/27946181/146653842-13c6cfa7-8b2e-4e57-90e1-d54497341a71.png">
 
 #ADMINISTRATION
+-This page is only visible to users with admin role.
+-Admin can add and revoke admin and approver roles.
+- They can see a list of all the users under a certain role.
+- Currently there are 3 distinct roles - Admin, approver and regular user with no priviledges.
 <img width="1440" alt="Screen Shot 2021-12-18 at 1 43 35 PM" src="https://user-images.githubusercontent.com/27946181/146653846-c62f402d-957b-4590-b724-d250b0b4757e.png">
 
 
