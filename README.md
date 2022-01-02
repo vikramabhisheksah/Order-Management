@@ -1,10 +1,16 @@
 #Order Management
 -The project includes a  a portal where your can raise changes to an existing order.
+
 -Adheres to all the MVC Design principles
+
 -The type of requests are customizeable.
+
 -The portal is Microsoft SSO enabled & can be activated after Azure App registration.
+
 -The portal has an admin panel to decide who can access the portal with elevated roles.
+
 -The requests which are raised can be viewed in a Dashboard table and individual requests can be modified.
+
 -The portal also has a bulk upload feature where multiple Order change requests can be placed in bulk.
 
 #Getting Started with OOC.
