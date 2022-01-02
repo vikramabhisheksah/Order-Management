@@ -1,5 +1,6 @@
 #Order Management
-The project includes a basic template of a portal where your can raise changes to an existing order.
+The project includes a  a portal where your can raise changes to an existing order.
+Adheres to all the MVC Design principles
 The type of requests are customizeable.
 The portal is Microsoft SSO enabled & can be activated after Azure App registration.
 The portal has an admin panel to decide who can access the portal with elevated roles.
